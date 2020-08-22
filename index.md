@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Oluwole Nathaniel Falasinu
 
 <br>
 
@@ -10,5 +10,15 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+https://github.com/Nathan2401
+<br>
+
+https://www.linkedin.com/in/oluwole-falasinu-b674b4187/
+
+<br>
+
+https://twitter.com/9jawiki
+<br>
+
+
 
